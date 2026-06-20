@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year CSE undergraduate at IUBAT, Dhaka, passionate about applied ML and LLMs, with a growing interest in the intersection of AI and computer networking.<br>🛠️ Stack: Python, PyTorch, FastAPI<br><br>📫 Open to SWE/ML internship opportunities in Dhaka
+Final-year CSE undergraduate at IUBAT, Dhaka, passionate about applied ML and LLMs, with a growing interest in the RAG Systems.<br>🛠️ Stack: Python, PyTorch, FastAPI<br><br>📫 Open to SWE/ML internship opportunities in Dhaka
 
 
 ## 🌐 Socials:
